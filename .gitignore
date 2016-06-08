@@ -1,0 +1,7 @@
+*.o
+*.DS_Store
+.idea/
+build/
+target/
+vendor/googletest/build/
+vendor/googletest/build-aux/
