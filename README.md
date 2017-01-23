@@ -5,8 +5,8 @@ This is a template project for getting started with new C projects quickly. It i
 
 Basic usage
 ====
- * Clone this repo
 ```bash
+git clone https://github.com/Pinkerton/c-template.git
 cd c-template
 mkdir build && cd build
 cmake ..
