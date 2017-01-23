@@ -11,8 +11,8 @@ cd c-template
 mkdir build && cd build
 cmake ..
 make
-~executables created in ../target
-../target/PROJECT        # to run your program
+# executables created in ../target
+../target/PROJECT        # to run the program
 ../target/PROJECT_tests  # to run unit tests
 ```
 
