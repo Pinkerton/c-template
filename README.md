@@ -39,8 +39,8 @@ Resources
  * [Using googletest](http://www.ibm.com/developerworks/aix/library/au-googletestingframework.html)
  * [Project structure and configuration source](https://github.com/ebenoist/libblinkstick)
 
- Known Issues
- ====
+Known Issues
+====
 
  I **believe** this rebuilds your source files for both the your main() and for the unit tests, when it should ideally build a static library that both can link against.
 
